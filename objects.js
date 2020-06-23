@@ -9,4 +9,3 @@ function removeFromPlaylist (playlist, artistName) {
   delete playlist[artistName];
   return updatePlaylist;
 }
-© 2020 GitHub, Inc.
